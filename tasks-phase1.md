@@ -67,7 +67,7 @@ create a sample usage profiles and add it to the Infracost task in CI/CD pipelin
       europe: 5
 ```
 
-    ![img.png](images/task-8.webp)
+   ![img.png](images/task-8.webp)
 
 
 10. Create a BigQuery dataset and an external table using SQL
