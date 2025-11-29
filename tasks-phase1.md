@@ -70,7 +70,7 @@ create a sample usage profiles and add it to the Infracost task in CI/CD pipelin
    ![img.png](images/task-8.webp)
 
 
-10. Create a BigQuery dataset and an external table using SQL
+9. Create a BigQuery dataset and an external table using SQL
 
   ```
   CREATE SCHEMA IF NOT EXISTS dataset;
